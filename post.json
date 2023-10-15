@@ -2,11 +2,11 @@
   "posts": [
     {
       "id": 1,
-      "img": "5 Plus"
+      "img": "https://raw.githubusercontent.com/mtapplication/Lord_Shelby/main/image/img1.jpg"
     },
     {
       "id": 2,
-      "img": "5 Plus"
+      "img": "https://raw.githubusercontent.com/mtapplication/Lord_Shelby/main/image/img2.jpg"
     }
   ]
 }
